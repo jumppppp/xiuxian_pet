@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python 3.10+">
   <img src="https://img.shields.io/badge/PyQt6-GUI-green.svg" alt="PyQt6">
   <img src="https://img.shields.io/badge/Go-Plugin-orange.svg" alt="Go Plugin">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License">
+  <img src="https://img.shields.io/badge/License-GPLv3%20Non--Commercial-red.svg" alt="GPLv3 Non-Commercial">
 </p>
 
 ---
@@ -172,7 +172,12 @@ xiuxian_xxx.exe
 
 ## 📜 许可证
 
-本项目基于 MIT 许可证开源 - 查看 [LICENSE](LICENSE) 文件了解详情。
+本项目基于 **GNU GPLv3** 许可证发布，并附加**禁止商业收费**条款：
+
+- ✅ 允许：个人学习、研究、非盈利教育用途
+- ❌ 禁止：商业销售、收费许可、盈利性使用
+
+查看 [LICENSE](LICENSE) 文件了解完整条款。
 
 ---
 
